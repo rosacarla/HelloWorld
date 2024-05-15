@@ -1,3 +1,28 @@
 h2{
     color:orange;
 }
+
+body{
+    background-color: rgb(56, 91, 206);
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+header{
+    border-bottom: 1px solid rgb(225, 218, 218);
+}
+
+footer{
+    border-top: 1px solid rgb(225, 218, 218);
+}
+
+#nome-usuario{
+    font-weight: bold; 
+
+}
+
+.texto-ingles{ 
+    font-style: italic;
+  }
+ 
